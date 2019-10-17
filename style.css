@@ -220,7 +220,6 @@
 
 
 ul {
-    float: center;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -400,14 +399,12 @@ ul {
 
 .menyklass{
   color: white;
-  background-color: 333;
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .kontaktlänk{
   text-align: left;
-  background-color: 333;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
